@@ -1,0 +1,11 @@
+{
+  "status": 404,
+  "message": "not_found",
+  "data": {
+    "timestamp": 1674805404284,
+    "status": 404,
+    "error": "not_found",
+    "message": "NOT_FOUND",
+    "path": "/product/**"
+  }
+}

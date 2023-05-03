@@ -1,0 +1,11 @@
+{
+  "status": 400,
+  "message": "Bad Request",
+  "data": {
+    "timestamp": 1674805245728,
+    "status": 400,
+    "error": "Bad Request",
+    "message": "BAD_REQUEST",
+    "path": "/admin/**"
+  }
+}

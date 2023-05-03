@@ -1,0 +1,11 @@
+{
+  "status": 200,
+  "message": "User Fetched Successfully",
+  "data": {
+    "id": "long",
+    "productname": "string",
+    "price": "Long",
+    "qty": "Long",
+    "brand": "string"
+  }
+}
